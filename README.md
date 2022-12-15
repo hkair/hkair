@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hkair
+- 👋 Hi, I’m hobin!
 - 👀 I’m interested in Machine Learning, Data Engineering and Data Science.
 - 🌱 I’m currently learning deep learning, ios development, etc.
 - 💞️ I’m looking to collaborate on ML/Deep Learning focused in computer vision.
