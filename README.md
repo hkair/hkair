@@ -1,4 +1,4 @@
-- 👋 Hi, I’m hobin!
+- 👋 Hi, I’m hobin! I'm currently working as a Data Scientist for the NBA Player Tracking team at Sportradar!
 - 👀 I’m interested in Machine Learning, Data Engineering and Data Science. I am passionate in bridging sports/athletics and technology together!
 - 🌱 I’m currently learning deep learning, ml systems, mlops and computer vision.
 - 💞️ I’m looking to collaborate on ML/Deep Learning focused in computer vision.
